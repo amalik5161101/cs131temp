@@ -1,0 +1,9 @@
+    1  exit
+    2  wget www.github.com
+    3  git remote add origin https://github.com/amalik5161101/cs131.git
+    4  cd ~/Desktop
+    5  get init
+    6  git init
+    7  mkdir ws1
+    8  cd ws1
+    9  history > cmds.log
