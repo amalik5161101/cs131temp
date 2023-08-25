@@ -1,0 +1,27 @@
+    1  exit
+    2  wget www.github.com
+    3  git remote add origin https://github.com/amalik5161101/cs131.git
+    4  cd ~/Desktop
+    5  get init
+    6  git init
+    7  mkdir ws1
+    8  cd ws1
+    9  history > cmds.log
+   10  git status
+   11  git add cmds.log
+   12  git commit -m  "Commit Reason"
+   13  git config --global user.email "abdullah.malik@sjsu.edu"
+   14  git config --global user.name "Abdullah"
+   15  git commit -m "Commit Reason"
+   16  git remote add origin https://github.com/amalik5161101/cs131.git
+   17  git push -u origin main
+   18  git init
+   19  git remote add origin https://github.com/amalik5161101/cs131.git
+   20  git push -u origin main
+   21  git status
+   22  git remote add origin https://github.com/amalik5161101/cs131.git
+   23  git push -u origin main
+   24  git init
+   25  git push -u origin main
+   26  mkdir ws1
+   27  history > cmds.log
