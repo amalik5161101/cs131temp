@@ -1,0 +1,88 @@
+    1  mnelson:Desktop mnelson$ cd ~/Desktop
+    2  mnelson:myproject mnelson$ git init
+    3  pwd
+    4  cd ~/Desktop
+    5  mkdir myproject
+    6  cd myproject/
+    7  git init
+    8  touch mnelson.txt
+    9  ls
+   10  git status
+   11  git add
+   12  git add mnelson.txt
+   13  git status
+   14  git commit -m ""
+   15  git commit -m "Your message about the commit"
+   16  git commit -m "This is my first commit!"
+   17  git commit -m "This is my first commit!"
+   18  git commit -m "This is my first commit!"
+   19  git status
+   20  git commit -m "Your message about the commit"
+   21  git config --global user.email "abdullah.malik@sjsu.edu"
+   22  git config --global user.name "Abdullah"
+   23  git commit -m "Your message about the commit"
+   24  git checkout -b <my branch name>
+   25  git checkout -b <branch>
+   26  git branch
+   27  git checkout <my-new-branch>
+   28  git checkout -b <my-new-branch>
+   29  -b <new-branch>
+   30  git checkout -b <new-branch>
+   31  git checkout new-branch
+   32  git checkout -b branch
+   33  git branch
+   34  git remote add origin http://github.com/mynewrepository.git
+   35  git push -u origin master
+   36  git remote add origin http://github.com/amalik5161101/newrepo.git
+   37  git branch -M main
+   38  git push -u origin main
+   39  git push -u origin master
+   40  git remote add origin http://github.com/amalik5161101/newrepo.git
+   41  git push -u origin master
+   42  git remote remove origin http://github.com/amalik5161101/newrepo.git
+   43  git remote add origin http://github.com/amalik5161101/newrepo.git
+   44  git push -u origin master
+   45  git remote add origin http://github.com/amalik5161101/newrepo.git
+   46  git push -u origin main
+   47  git init
+   48  git add README.md
+   49  git remote add origin http://github.com/amalik5161101/newrepo.git
+   50  get branch -M main
+   51  git branch -M main
+   52  git push -u origin main
+   53  git branch
+   54  cd ~/Desktop
+   55  mkdir myproject
+   56  mkdir newproject
+   57  cd newproject/
+   58  git init
+   59  touch newfile.txt
+   60  ls
+   61  git status
+   62  git add newfile.txt
+   63  git status
+   64  git commit -m "First commit!"
+   65  git checkout -b newbranch
+   66  git branch
+   67  git remote add origin https://github.com/amalik5161101/anewrepo.git
+   68  git branch -M main
+   69  git push -u origin main
+   70  git push origin newbranch
+   71  git push origin new branch
+   72  git push origin newbranch
+   73  git checkout -b newbranch
+   74  git push origin newbranch
+   75  git status
+   76  touch test,txt
+   77  touch text.txt
+   78  ls
+   79  git status
+   80  git add text.txt
+   81  git status
+   82  git remote add origin http://github.com/amalik5161101/cs131.git
+   83  git branch -M main
+   84  git push -u origin main
+   85  mkdir ws1
+   86  history > cmds.log
+   87  cd ws1
+   88  history > cmds.log
